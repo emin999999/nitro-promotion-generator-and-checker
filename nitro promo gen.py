@@ -1,3 +1,5 @@
+print("Owned By Emin INC.")
+print("Nitro Promotion Generator And Checker 1.0")
 import random
 import string
 import requests
